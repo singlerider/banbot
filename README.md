@@ -1,7 +1,3 @@
-Try it out! Code is live at
-http://www.twitch.tv/ravenhart007
-===============================
-
 # banbot
 
 This is a Twitch chat/irc bot written in Python (2.6 / 2.7).
